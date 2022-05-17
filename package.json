@@ -1,0 +1,15 @@
+{
+  "name": "marathon",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
